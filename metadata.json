@@ -1,0 +1,6 @@
+{
+  "name": "Talent Science Academy",
+  "description": "A professional and modern marketing website for Talent Science Academy in Faisalabad, Pakistan, specializing in Intermediate (FSc Pre-Medical & Pre-Engineering) and A-Level education.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
